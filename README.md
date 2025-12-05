@@ -1,0 +1,2 @@
+# AWS_Lambda_ApiGateway_Dynamo_GenAI_Amplify
+3-tier Serverless approch Project using AWS_Lambda_ApiGateway_Dynamo_GenAI_Amplify
